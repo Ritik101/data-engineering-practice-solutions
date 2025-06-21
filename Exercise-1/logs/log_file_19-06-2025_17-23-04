@@ -1,0 +1,13 @@
+2025-06-19 17:23:07,700 - ERROR - Async Download failed for https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2220_Q1.zip: 404, message='Not Found', url='https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2220_Q1.zip'
+2025-06-19 17:23:19,446 - INFO - Downloaded Downloaded_files\Divvy_Trips_2020_Q1 
+2025-06-19 17:23:20,030 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2020_Q1
+2025-06-19 17:23:25,544 - INFO - Downloaded Downloaded_files\Divvy_Trips_2018_Q4 
+2025-06-19 17:23:26,339 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2018_Q4
+2025-06-19 17:23:26,628 - INFO - Downloaded Downloaded_files\Divvy_Trips_2019_Q1 
+2025-06-19 17:23:27,264 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q1
+2025-06-19 17:23:30,811 - INFO - Downloaded Downloaded_files\Divvy_Trips_2019_Q2 
+2025-06-19 17:23:32,065 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q2
+2025-06-19 17:23:32,741 - INFO - Downloaded Downloaded_files\Divvy_Trips_2019_Q4 
+2025-06-19 17:23:33,693 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q4
+2025-06-19 17:23:40,826 - INFO - Downloaded Downloaded_files\Divvy_Trips_2019_Q3 
+2025-06-19 17:23:42,402 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q3

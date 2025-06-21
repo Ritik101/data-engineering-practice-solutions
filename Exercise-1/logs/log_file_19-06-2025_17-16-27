@@ -1,0 +1,7 @@
+2025-06-19 17:16:33,891 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2220_Q1.zip: 404, message='Not Found', url='https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2220_Q1.zip'
+2025-06-19 17:16:33,894 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q4.zip: 'module' object is not callable
+2025-06-19 17:16:33,906 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip: 'module' object is not callable
+2025-06-19 17:16:33,907 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2018_Q4.zip: 'module' object is not callable
+2025-06-19 17:16:33,918 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip: 'module' object is not callable
+2025-06-19 17:16:33,925 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q2.zip: 'module' object is not callable
+2025-06-19 17:16:33,960 - ERROR - Async Download failed forhttps://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q3.zip: 'module' object is not callable
