@@ -1,0 +1,13 @@
+2025-06-19 17:14:32,270 - INFO - Downloaded (sync): https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q2.zip
+2025-06-19 17:14:34,011 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q2
+2025-06-19 17:14:35,014 - INFO - Downloaded (sync): https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q1.zip
+2025-06-19 17:14:35,481 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q1
+2025-06-19 17:14:36,642 - ERROR - Sync download failed for: https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2220_Q1.zip: e
+2025-06-19 17:14:42,623 - INFO - Downloaded (sync): https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2018_Q4.zip
+2025-06-19 17:14:43,785 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2018_Q4
+2025-06-19 17:14:44,627 - INFO - Downloaded (sync): https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q3.zip
+2025-06-19 17:14:44,778 - INFO - Downloaded (sync): https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q4.zip
+2025-06-19 17:14:46,184 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q4
+2025-06-19 17:14:47,589 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2019_Q3
+2025-06-19 17:14:49,667 - INFO - Downloaded (sync): https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2020_Q1.zip
+2025-06-19 17:14:50,561 - INFO - Extracted and deleted: Downloaded_files\Divvy_Trips_2020_Q1
